@@ -318,7 +318,7 @@ namespace Analizator_Funkcji_Fx
                         "ERROR: musisz podać dolną wartość przedziału Xd");
                             return false;
                             // zakończenie sprawdzania czy wpisano cokolwiek
-                            //do kontrolki PB_DolnaGranicaPrzedzialuFD
+                            //do kontrolki PB_DolnaGranicaPrzedzialuFDa
                         }
 
                         // wczytanie wartości zmiennej PB_Xd ze sprawdzeniem poprawności zapisu 
